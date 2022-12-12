@@ -1,3 +1,13 @@
+/*Identify the type of inheritance in the given diagram. Create a class A with two integer member
+variables that are private, two float variables that are protected and two integer variables that are public.
+Let class B inherit class A and class C and Class D are inherited from class B. Write appropriate
+methods to illustrate the following
+i) Usage of super keyword
+ii) Function overriding
+iii) Default constructors
+iv) Parameterized constructors
+v) How to we make a method not to be over ridden and a class not be inherited further*/
+
 class A{
 private int a1,a2;
 protected double f1,f2;
